@@ -4,7 +4,7 @@
   </description>
 
   <!-- set global properties for this build -->
-  <property name="main-class" value="aplicacion.Main"/>
+  <property name="main-class" value="com.jwetherell.algorithms.aplicacion.Main"/>
   <property name="src" location="src"/>
   <property name="test" location="test"/>
   <property name="build" location="build"/>
