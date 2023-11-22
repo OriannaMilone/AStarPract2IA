@@ -1,4 +1,4 @@
-package com.aplication;
+package com.jwetherell.algorithms.aplication;
 
 public class Main {
     public static void main(String[] args) {
